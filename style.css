@@ -9,6 +9,7 @@ body{
     background-image: url("the-best-weather-for-epic-sunsets-235301-5.jpg");
     
     background-position: top center;
+    background-size: cover;
     
 }
 
